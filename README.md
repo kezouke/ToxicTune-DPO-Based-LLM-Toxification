@@ -31,14 +31,14 @@ Welcome to **ToxicTune**! This repository tackles a Kaggle competition in which 
 ```
 .
 ├── README.md                  # Project overview and instructions
-└── toxic_tune_solution.ipynb  # Single Jupyter Notebook with the entire workflow
+└── dpo-nlp (1).ipynb  # Single Jupyter Notebook with the entire workflow
 ```
 
 ## Running the Notebook
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/ToxicTune.git
-   cd ToxicTune
+   git clone https://github.com/kezouke/ToxicTune-DPO-Based-LLM-Toxification
+   cd ToxicTune-DPO-Based-LLM-Toxification
    ```
 
 2. **Install Dependencies**  
@@ -56,7 +56,7 @@ Welcome to **ToxicTune**! This repository tackles a Kaggle competition in which 
      ```bash
      jupyter notebook
      ```
-   - Open `toxic_tune_solution.ipynb`, run all cells in sequence.
+   - Open `dpo-nlp (1).ipynb`, run all cells in sequence.
 
 ## Submission Instructions
 1. **Generate the Submission File**  
